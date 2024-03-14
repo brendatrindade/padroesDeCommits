@@ -1,5 +1,5 @@
 <div align="center">  
-  <img width=30% src="https://github.com/brendatrindade/Padroes-De-Commits/blob/main/imagem/commitsLogo.png"/>
+  <img width=30% src="https://github.com/brendatrindade/padroesDeCommits/blob/main/imagens/commitsLogo.png"/>
 </div>
 
 
